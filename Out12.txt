@@ -1,0 +1,7 @@
+(  Lparen:   (  )
+(  ident:   a  )
+(  plus:   +  )
+(  ident:   b  )
+(  plus:   +  )
+(  ident:   c  )
+(  Rparen:   )  )

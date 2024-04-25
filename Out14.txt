@@ -1,0 +1,5 @@
+(  number:   3  )
+(  minus:   -  )
+(  number:  12  )
+(  divide:   /  )
+(  number:   6  )
